@@ -1,12 +1,8 @@
-## Hi there 👋
+## Hi, I'm Nasrin Khan.  Welcome to my portfolio home page.👋
 
-
-**Nasrinkhan1/Nasrinkhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on learning to use AI-powered tools to build business solutions for auditing and financial management.
+- 🌱 I’m currently learning how to use Artificial Intelligence for Business Data Analysis, Visualiztion, and Reporting.  I am also learning Python and many Python packages for AI, data analysis, data processing, and automation of business workflows.
+ 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
